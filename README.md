@@ -1,4 +1,4 @@
-# Projects_01
+# Project_01
 
 ## Overview
 
