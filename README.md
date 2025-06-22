@@ -27,13 +27,13 @@ Getting Started: Step-by-Step Guide
 - Open the Repository:
      Navigate to: https://github.com/Harry-0402/Project_01
 
-Download the Files:
+2. Download the Files:
 - Click the green Code button.
 - Select Download ZIP.
 - Save the ZIP file to your computer.
 - Right-click the ZIP file and choose Extract All to unzip the contents.
 
-2. System Requirements
+3. System Requirements
 - Microsoft Excel 2016 or later (Windows or Mac)
 - No additional software or technical setup required
 
