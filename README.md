@@ -28,7 +28,7 @@ Getting Started: Step-by-Step Guide
      Navigate to: https://github.com/Harry-0402/Project_01
 
 2. Download the Files:
-- Click the green Code button.
+- Click the green **Code** button.
 - Select Download ZIP.
 - Save the ZIP file to your computer.
 - Right-click the ZIP file and choose Extract All to unzip the contents.
