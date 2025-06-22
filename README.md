@@ -18,9 +18,26 @@ Each project is designed for business users and analysts looking for ready-to-us
 | Bike_Sales_Dashboard.xlsx | Interactive dashboard for bike sales analysis and segmentation               
 | payroll.xlsx              | Payroll management system with automated calculations                        
 | Gradebook.xlsx            | Employee gradebook for test tracking and performance evaluation              
-| README.md                 | Project documentation (this file)                                           
+| README.md                 | Project documentation and user guide (this file)                                           
 
 ---
+
+Getting Started: Step-by-Step Guide
+1. Accessing the Repository
+- Open the Repository:
+     Navigate to: https://github.com/Harry-0402/Project_01
+
+Download the Files:
+- Click the green Code button.
+- Select Download ZIP.
+- Save the ZIP file to your computer.
+- Right-click the ZIP file and choose Extract All to unzip the contents.
+
+2. System Requirements
+- Microsoft Excel 2016 or later (Windows or Mac)
+- No additional software or technical setup required
+
+For further assistance, refer to this README or contact the repository maintainer via GitHub.
 
 ## 1. Bike Sales Dashboard
 
