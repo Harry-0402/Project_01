@@ -25,7 +25,7 @@ Each project is designed for business users and analysts looking for ready-to-us
 Getting Started: Step-by-Step Guide
 1. Accessing the Repository
 - Open the Repository:
-     Navigate to: https://github.com/Harry-0402/Project_01
+Navigate to: https://github.com/Harry-0402/Project_01
 
 2. Download the Files:
 - Click the green **Code** button.
